@@ -1,0 +1,19 @@
+1) What is exception handling ?
+2) exception vs  error
+3) Hierarchy of exception
+4) checked , unchecked and error ?
+5) super class of all exception
+6) try catch, finally  combination'
+7) final vs finally vs finalize()'
+8) throw vs throws
+9) Exception handling with overridng 
+10) what is classcastexception ?
+11)classNotFoundException vs noClassdefFoundEroor
+12) custom exception  ? How to create 
+13)  What is unreachable catch block error?
+14) What are run time exceptions in Java. 
+15) What is Re-throwing an exception in Java?
+16) What are chained exceptions in Java?
+17) Which class is the super class for all types of errors and exceptions in Java?
+18) what is sqlexception 
+19) What is the use of printStackTrace() method?s

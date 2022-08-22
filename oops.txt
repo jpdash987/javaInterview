@@ -1,0 +1,43 @@
+=> which is parent class of all classes ?[object class]
+=> Methods of Object class ?
+
+=> object vs class
+=> How many ways we can create Objects ?
+=> How many ways we can intialize Objects ? 
+=> Object cloning process ? (clonenotsupportexception)
+
+=> what is constructor ?
+=> Different types of constructor ?
+=> Constructor overloading ?
+=> Constructor chaining ?
+=> why constructor cannot be static , abstract , final ?
+=> constructor vs method 
+
+=> why static is used ? 
+   [static applicable for ]
+=> can we declare static variable in non static area ?
+=> can we declare non static variable in  static area ?
+
+=> Final keyword uses ?'
+=> static blank unintialize variable 
+=> can main() support overloading or overriding ?
+=> can static method support overloading or overriding ? 
+=> what is polymorphism ?
+=> Overloading vs overriding
+=> static vs dynamic binding 
+=> dynamic method dispatch ?
+
+=> what is encapsulation
+=> How to achieve encapsulation ?
+=> what is abstraction
+=> encapsulation vs abstraction ?
+
+=> what is inheritance ?
+=> why multiple inheritance not supported in java ?
+=> what is aggregation?
+=> aggregation vs composition ?
+=> access modifier [public , private , default , protected]
+=> access modifier with overriding methods ?
+
+=> can main() support overloading or overriding ?
+=> can static method support overloading or overriding ?
